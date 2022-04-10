@@ -39,7 +39,7 @@ export default function CouponBook() {
 
     return (
         <>
-            <div className="flex flex-col bg-gray-900 text-white rounded-md p-1 items-center">
+            <div className="flex flex-col bg-gray-600 text-white rounded-md p-1 items-center">
                 <p>Collect 5 tracks to receive a 25% discount on your next purchase!</p>
 
                 <p className="flex flex-row gap-1 place-self-center">

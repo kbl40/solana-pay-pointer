@@ -13,7 +13,7 @@ export default function HomePage() {
       <SiteHeading>Dope Tracks Inc</SiteHeading>
 
       <div className='basis-1/4'>
-        <WalletMultiButton className='!bg-gray-900 hover:scale-105' />
+        <WalletMultiButton className='!bg-gray-600 hover:scale-105' />
       </div>
 
       {publicKey && <CouponBook />}
